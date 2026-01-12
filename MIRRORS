@@ -1,0 +1,4 @@
+git@github.com:kevinveenbirkenbach/setup-hibernate.git
+ssh://git@git.veen.world:2201/kevinveenbirkenbach/setup-hibernate.git
+ssh://git@code.infinito.nexus:2201/kevinveenbirkenbach/setup-hibernate.git
+https://pypi.org/project/setup-hibernate/
